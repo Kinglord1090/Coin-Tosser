@@ -27,7 +27,7 @@ This project is a coin flip simulator that allows users to flip a virtual coin a
 
 1. Run the script:
     ```bash
-    python coin_flip_sim.py
+    python coin-flip-sim.py
     ```
 2. Follow the prompt:
    - Enter the number of times you want to flip the coin.
