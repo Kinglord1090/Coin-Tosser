@@ -18,21 +18,20 @@ This project is a coin flip simulator that allows users to flip a virtual coin a
     ```bash
     git clone https://github.com/your-username/coin-flip-simulator.git
     ```
-2. Navigate to the project folder:
-    ```bash
-    cd coin-flip-simulator
-    ```
 
 ## Usage
 
-1. Run the script:
+1. Navigate to the project folder:
+    ```bash
+    cd coin-flip-simulator
+    ```
+2. Run the script:
     ```bash
     python coin-flip-sim.py
     ```
-2. Follow the prompt:
+3. Follow the prompt:
    - Enter the number of times you want to flip the coin.
-
-3. The program will display:
+4. The program will display:
    - A sequence of "H" (Heads) and "T" (Tails).
    - A summary count of heads and tails.
 
